@@ -1,10 +1,10 @@
 {
-	"token": "",
-	"ownerID": "",
+	"token": "ODEyNzExNDg1OTI2NjcwMzY3.YDEujQ.dex-1VMteP52DWuZsT",
+	"ownerID": "660390189616726017",
 	"webhook": "",
-	"defaultPrefix": "",
-	"clientSecret": "",
-	"websiteURL": "",
+	"defaultPrefix": "+",
+	"clientSecret": "0qVc8MmLhPYfPmZPzFlu8xAHZ11-yn0s",
+	"websiteURL": "patryczeq.pl",
 
 	"red": "0xffb3ba",
 	"orange": "0xffdfba",
